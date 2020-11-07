@@ -1,0 +1,13 @@
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\bin\Release\netcoreapp3.1\CsvApp.exe
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\bin\Release\netcoreapp3.1\CsvApp.deps.json
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\bin\Release\netcoreapp3.1\CsvApp.runtimeconfig.json
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\bin\Release\netcoreapp3.1\CsvApp.runtimeconfig.dev.json
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\bin\Release\netcoreapp3.1\CsvApp.dll
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\bin\Release\netcoreapp3.1\CsvApp.pdb
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.csprojAssemblyReference.cache
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.AssemblyInfoInputs.cache
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.AssemblyInfo.cs
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.csproj.CoreCompileInputs.cache
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.dll
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.pdb
+C:\_dev_\eyeX\csv\CsvApp\CsvApp\obj\Release\netcoreapp3.1\CsvApp.genruntimeconfig.cache
